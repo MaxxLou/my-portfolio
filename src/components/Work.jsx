@@ -6,7 +6,7 @@ const data = [
     title: "Frontend Developer, freelance",
     duration: "Present",
     details:
-      "Create functional interfaces; Implement my own ideas in pet projects;    Expand my knowledge, applying it in practice.",
+      "Create functional interfaces; implement my own ideas in pet projects; expand my knowledge, applying it in practice.",
   },
   {
     year: 2020,
